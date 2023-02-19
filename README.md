@@ -4,5 +4,6 @@ Subah Info Solutions is a software development company in Ghana, and I have been
 Description
 This is an API that can create a student profile and also find a student with an id.
 
-The deployed API can be found at [Vercel](https://vercel.com/10958775/school-management-system/CpvQZMrURhcBZm1actqV7HdJPoih)
-The APIs documentations can be found at [Postman] (https://documenter.getpostman.com/view/25926093/2s93CHuusE)
+The deployed API can be found at [Vercel](https://vercel.com/10958775/school-management-system/CpvQZMrURhcBZm1actqV7HdJPoih).
+
+The APIs documentations can be found at [Postman](https://documenter.getpostman.com/view/25926093/2s93CHuusE)
